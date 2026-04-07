@@ -1,6 +1,6 @@
 # Fair Aggregation in Virtual Power Plants
 
-This repository contains the source code to reproduce the findings presented in the research paper titled **"Fair Aggregation in Virtual Power Plants"**. Please refer to the [full paper](link) for more details.
+This repository contains the source code to reproduce the findings presented in the research paper titled **"Fair Aggregation in Virtual Power Plants"**. Please refer to the [full paper](https://arxiv.org/abs/2604.03559) for more details.
 
 ## Experimental Setup
 Most scripts in this repository utilize the **Pyomo** library to solve optimization problems. While the codebase is tailored for use with **Google Colab**, it can also be executed locally by installing the necessary dependencies and solvers (e.g., Pyomo, Ipopt, or Couenne).
